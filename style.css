@@ -1,0 +1,65 @@
+
+.nav_bar{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    list-style-type:none;
+    background-color: black;
+    padding-bottom: 35px ;
+    padding-top: 20px;
+    margin :0px
+
+    
+    
+}
+a {
+    color:white; 
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.the-end{
+    position: relative;
+    display: flex;  
+    justify-content:space-around;
+    background-color: black;
+    padding-bottom: 35px ;
+    padding-top: 20px;
+    margin :0px
+}
+
+.mainPhoto { 
+    display: flex;
+   margin-top: -79px;
+   overflow: hidden;
+   padding-left:0 px; 
+   background-position: center ; 
+   background-size: cover ;
+   height: 100vh;
+   width: 100% ;
+}
+
+.Logo{
+    position: absolute;
+    left: 1550px;
+
+}
+footer{
+
+    background-color: black;
+}
+
+
+
+
+    
+    
+
+.location{
+    width: 500px;
+    height: 500px;
+     
+        
+    
+    }
